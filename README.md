@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hey 👋, I'm [Tran Duy Khang!](https://github.com/tranduykhang1/)
 
-<!--
-**tranduykhang1/tranduykhang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Glad to see you here! 
 
-Here are some ideas to get you started:
+#### I'm **Tran Duy Khang**, is a final year student of Ky Thuat - Cong Nghe Can Tho University, major in *Software Engeneering*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Talking about my skills:**
+
+* NodeJs
+* ReactJs (Material UI, Bootstrap)
+* MySql, MongoDb
+* PHP (basic)
+* Python (Basic)
+
+#### **My favorites:**
+* I'm interesting about new technology
+* Reading tech blogs whenever possible
+* And footbal, music,...
+
+#### **My projects at school:**
+
+* Shopping Cart *(NodeJs, MySql)* [Visit ](https://github.com/tranduykhang1/ShoppingCart-Nodejs-MySql).
+* Social NetWork *(Nodejs, Bootstrap 4, Mysql)* [Visit](https://github.com/tranduykhang1/socialnetwork)
+* Photo Sharing (Pinterest clone) *(MERN stack)* [UI](https://github.com/tranduykhang1/PhotoSharing_UI), [API](https://github.com/tranduykhang1/SharingPhotos-API)
+* [More at](https://github.com/tranduykhang1)
+
+
