@@ -21,7 +21,7 @@
 
 * Shopping Cart *(NodeJs, MySql)* [Visit ](https://github.com/tranduykhang1/ShoppingCart-Nodejs-MySql).
 * Social NetWork *(Nodejs, Bootstrap 4, Mysql)* [Visit](https://github.com/tranduykhang1/socialnetwork)
-* Photo Sharing (Pinterest clone) *(MERN stack)* [UI](https://github.com/tranduykhang1/PhotoSharing_UI), [API](https://github.com/tranduykhang1/SharingPhotos-API)
+* Social Photo (Pinterest clone) *(MERN stack)* [UI](https://github.com/tranduykhang1/PhotoSharing_UI), [API](https://github.com/tranduykhang1/SharingPhotos-API)
 * [More at](https://github.com/tranduykhang1)
 
 
