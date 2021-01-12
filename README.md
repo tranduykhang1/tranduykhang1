@@ -11,11 +11,9 @@
 * MySql, MongoDb
 * PHP (basic)
 * Python (Basic)
-
-#### **My favorites:**
-* I'm interesting about new technology
-* Reading tech blogs whenever possible
-* And footbal, music,...
+---
+* MVC
+* OOP
 
 #### **My projects at school:**
 
@@ -23,5 +21,7 @@
 * Social Network *(Nodejs, Mysql)* [Visit](https://github.com/tranduykhang1/socialnetwork)
 * Social Photo (Pinterest clone) *(MERN stack)* [UI](https://github.com/tranduykhang1/PhotoSharing_UI), [API](https://github.com/tranduykhang1/SharingPhotos-API)
 * [More at](https://github.com/tranduykhang1)
+...
+And a few project with Python, PHP, ReactJs, React-Native
 
 
