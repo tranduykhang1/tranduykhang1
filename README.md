@@ -7,13 +7,18 @@
 #### **Talking about my skills:**
 
 * NodeJs
-* ReactJs (Material UI, Bootstrap)
+* ReactJs (Redux, Material UI)
 * MySql, MongoDb
 * PHP (basic)
 * Python (Basic)
 ---
 * MVC
 * OOP
+---
+* Git
+* Github
+* Bitbucket
+* Postman
 
 #### **My projects at school:**
 
