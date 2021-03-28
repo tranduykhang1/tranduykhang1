@@ -2,7 +2,7 @@
 
 ### Glad to see you here! 
 
-#### I'm **Tran Duy Khang**, is a final year student of Ky Thuat - Cong Nghe Can Tho University, major in *Software Engeneering*
+#### I'm **Tran Duy Khang**, is a final year student of Ky Thuat - Cong Nghe Can Tho University, major in *Software Engineering*
 
 #### **Talking about my skills:**
 
