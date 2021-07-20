@@ -7,10 +7,9 @@
 #### **Talking about my skills:**
 
 * NodeJs
-* ReactJs (Redux, Material UI)
+* ReactJs (Redux, Material UI),
+* Java (Spring)
 * MySql, MongoDb
-* PHP (basic)
-* Python (Basic)
 ---
 * MVC
 * OOP
