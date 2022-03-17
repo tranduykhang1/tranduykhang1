@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Tran Duy Khang!](https://github.com/tranduykhang1/)
+## Hey 👋, I'm Khang (Cristian)
 
 ### Glad to see you here! 
 
