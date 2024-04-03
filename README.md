@@ -1,4 +1,4 @@
-## Hey 👋, I'm Khang (Cristian)
+## Hey 👋, I'm Khang
 
 ### Glad to see you here! 
 
